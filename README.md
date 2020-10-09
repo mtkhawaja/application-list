@@ -39,6 +39,7 @@
 1. [Calibre](https://calibre-ebook.com/)
 2. [Foxit Reader](https://www.foxitsoftware.com/)
 3. [FBReader](https://fbreader.org/)
+4. [Tiny Tiny RSS](https://tt-rss.org/)
 
 ## Audio
 
@@ -48,23 +49,27 @@
 ## Network
 
 1. [nmap](https://nmap.org/)
-2. [OpenVPN](https://openvpn.net/)
-3. [PuTTY](https://www.putty.org/)
-4. [SmartTTY](https://sysprogs.com/SmarTTY/)
-5. [FileZilla](https://filezilla-project.org/)
+2. [Tsunami Security Scanner](https://github.com/google/tsunami-security-scanner)
+3. [OpenVPN](https://openvpn.net/)
+4. [PuTTY](https://www.putty.org/)
+5. [SmartTTY](https://sysprogs.com/SmarTTY/)
+6. [FileZilla](https://filezilla-project.org/)
 
 ## Video
 
 1. [Kodi](https://kodi.tv/)
 2. [K-Lite](https://codecguide.com/download_kl.htm)
-3. [handbrake](https://handbrake.fr/)
-4. [OBS](https://obsproject.com/)
+3. [VLC](https://www.videolan.org/vlc/index.html)
+4. [handbrake](https://handbrake.fr/)
+5. [OBS](https://obsproject.com/)
+6. [OpenShot](https://www.openshot.org/)
 
 ## Images
 
 1. [ShareX](https://getsharex.com/downloads/)
 2. [ImageGlass](https://imageglass.org/)
 3. [ImageMagick](https://imagemagick.org/index.php)
+4. [draw.io](https://app.diagrams.net/)
 
 ## Other
 
