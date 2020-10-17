@@ -2,12 +2,13 @@
 
 ## Developer Tools
 
-### Text Editors and IDEs
+### Editors and IDEs
 
 1. [Visual Studio Code](https://code.visualstudio.com/download)
 2. [notepad++](https://notepad-plus-plus.org/downloads/)
 3. [vim](https://www.vim.org/download.php)
 4. [Android Studio](https://developer.android.com/studio)
+5. [HxD](https://mh-nexus.de/en/downloads.php?product=HxD20)
 
 ### Terminals & Scripting
 
