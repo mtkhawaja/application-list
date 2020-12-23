@@ -72,6 +72,10 @@
 3. [ImageMagick](https://imagemagick.org/index.php)
 4. [draw.io](https://app.diagrams.net/)
 
+## Benchmarking
+
+1. [CrystalDiskMark](https://crystalmark.info/en/download/#CrystalDiskMark)
+
 ## Other
 
 1. [Rufus](https://rufus.ie/)
