@@ -10,10 +10,13 @@
 4. [Android Studio](https://developer.android.com/studio)
 5. [HxD](https://mh-nexus.de/en/downloads.php?product=HxD20)
 
-### Terminals & Scripting
+### Terminals, Scripting, Utilities
 
 1. [Windows Terminal](https://github.com/microsoft/terminal)
 2. [PowerShell](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell?view=powershell-7)
+3. [Rclone](https://rclone.org/)
+4. [VeraCrypt](https://www.veracrypt.fr/en/Home.html)
+5. [ghostscript](https://www.ghostscript.com/GPL_Ghostscript_9.06.html)
 
 ### Language Specific
 
@@ -64,6 +67,7 @@
 4. [handbrake](https://handbrake.fr/)
 5. [OBS](https://obsproject.com/)
 6. [OpenShot](https://www.openshot.org/)
+7. [ffmpeg](https://ffmpeg.org/)
 
 ## Images
 
@@ -85,6 +89,4 @@
 5. [TestDisk](https://www.cgsecurity.org/wiki/TestDisk)
 6. [PASCO](https://www.pasco.com/)
 7. [clisp](https://clisp.sourceforge.io/)
-8. [ghostscript](https://www.ghostscript.com/GPL_Ghostscript_9.06.html)
-9. [ffmpeg](https://ffmpeg.org/)
-10. [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/)
+8. [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/)
